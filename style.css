@@ -1,0 +1,35 @@
+.header{
+    display: grid;
+    grid-template-columns:auto auto;
+    border: solid 1px green;
+    text-align: center;
+    color: red;
+}
+.auto1{
+    border: solid 1px red;
+    background-color: black;
+    border-radius: 10px;
+}
+.auto2{
+    border: solid 1px blue;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.navstyle{
+    display: grid;
+    grid-template-columns:auto auto auto auto;
+    border: solid 1px green;
+    text-align: center;
+    color: red;
+    text-decoration: none;
+}
+nav li{
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    background-color: black;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
