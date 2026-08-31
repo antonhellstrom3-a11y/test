@@ -21,7 +21,7 @@
 .navstyle {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    border: solid 1px rgb(122, 0, 128);
+    border: solid 1px Darkblue;
     text-align: center;
     color: red;
     text-decoration: none;
