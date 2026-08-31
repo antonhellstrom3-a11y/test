@@ -32,7 +32,7 @@ nav li {
     margin: 0 10px;
     text-decoration: none;
     background-color: green;
-    background-color: rgb(0, 0, 0);
+    
 }
 
 nav ul {
@@ -43,5 +43,5 @@ nav ul {
 img {
     width: 300px;
     height: auto;
-    border-radius: 20%;
+    border-radius: 50%;
 }
